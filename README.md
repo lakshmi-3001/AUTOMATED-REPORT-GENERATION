@@ -59,22 +59,17 @@ It calls  create_pdf_report()  to generate the PDF report, which includes the da
 
 **APPLICATION**
 
-****Business Intelligence (BI)**
-
+**Business Intelligence (BI)**
 Automatically generate sales, marketing, and financial performance reports using real-time data dashboards.
 
 **Healthcare Reporting**
-
 Create patient summaries, lab result interpretations, and compliance reports without manual input.
 
 **Academic and Research Reports**
-
 Generate research summaries, experiment results, and statistical analyses from raw data.
 
 **Financial Services**
-
 Automate generation of balance sheets, income statements, and investment performance reports.
 
 **Project Management**
-
 Produce regular status updates, progress summaries, and resource allocation reports for stakeholders.**
