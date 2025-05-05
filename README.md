@@ -76,3 +76,5 @@ Produce regular status updates, progress summaries, and resource allocation repo
 
 **OUTPUT**
 
+[weather_report (2).pdf](https://github.com/user-attachments/files/20037465/weather_report.2.pdf)
+
