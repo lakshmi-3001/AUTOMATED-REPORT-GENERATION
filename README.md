@@ -73,3 +73,6 @@ Automate generation of balance sheets, income statements, and investment perform
 
 **Project Management**
 Produce regular status updates, progress summaries, and resource allocation reports for stakeholders.**
+
+**OUTPUT**
+
